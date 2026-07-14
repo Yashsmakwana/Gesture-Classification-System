@@ -4,7 +4,7 @@ program that recognizes hand signs and finger gestures with a simple MLP using t
 <br> 
 
 <br> 
-![Gesture Demo](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
+<img src="https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif" width="100%" alt="Gesture Demo">
 
 This repository contains the following contents.
 * Sample program
