@@ -2,7 +2,7 @@
 Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
 program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
 <br> 
->>>>>>> c056af6780acd263304b77429681efcd8875ecdb
+
 <br> 
 ![mqlrf-s6x16](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
 
